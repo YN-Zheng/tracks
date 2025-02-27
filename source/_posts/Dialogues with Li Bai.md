@@ -3,7 +3,6 @@ title: Dialogues with Li Bai
 date: 2025-02-27 13:31:53
 tags: AI
 ---
-# *Dialogues with Li Bai*
 *—Atop a sea of clouds, a drunken man leans against a pine. From the mist emerges a frowning youth.*
 
 ---
